@@ -30,6 +30,13 @@ Turkey Club Sandwich     | 11.50 THB
 
 ## Night Food
 
+|Item                      | Price      |
+|--------------------------|------------|
+|Pizza                     | 299.00 THB |
+|Ramen                     | 199.00 THB |
+|Sandwiches                | 99.00 THB  |
+|Fried chicken             | 199.00 THB |
+
 ## Beverages
 | Item                     | Price    |
 |------------------------  | ---------|
@@ -45,6 +52,16 @@ Turkey Club Sandwich     | 11.50 THB
 |Onion Rings              | 5.50 THB|
 |Mozzarella Sticks        | 6.00 THB|
 |Chicken Wings            | 7.00 THB|
+
+## Desserts
+
+|Item            | Price    |
+|:-------------- | ---------|
+|Chocolate Cake  | 70.00 THB|
+|Strawberry Cake | 70.00 THB|
+|Ice cream       | 40.00 THB|
+|Eclairs         | 50.00 THB|
+|Cupcakes        | 50.00 THB|
 
 ---
 
