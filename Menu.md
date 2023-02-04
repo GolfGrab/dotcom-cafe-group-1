@@ -28,6 +28,13 @@
 | Fried chicken | 199.00 THB |
 
 ## Beverages
+## snacks
+|Item                      | Price|
+|------------------------ | ------|
+|French Fries             | 5.00 THB|
+|Onion Rings              | 5.50 THB|
+|Mozzarella Sticks        | 6.00 THB|
+|Chicken Wings            | 7.00 THB|
 
 ---
 
