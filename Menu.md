@@ -18,11 +18,12 @@
 
 ## Beverages
 
-    Item                            Price
-    Coffee                          3.00 THB
-    Tea                             3.00 THB
-    Soda                            2.50 THB
-    Juice                           3.50 THB
+Item                      | Price
+------------------------  | ------
+Coffee                    | 3.00 THB
+Tea                       | 3.00 THB
+Soda                      | 2.50 THB
+Juice                     | 3.50 THB  
 
 ---
 
