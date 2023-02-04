@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | ...
+Section1 | [Lunch](Menu.md#lunch) | Section3 | ...
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
@@ -10,12 +10,13 @@ Section1 | Section2 | Section3 | ...
 **TODD**: ตัดสินใจกันในกลุ่มของตัวเองว่าจะเลือก หัวข้อในแต่ละคอลัมน์เป็นอะไร และจะโชว์ราคาในแต่ละเมนูยังไง โดยที่เมนูในแต่ละหมวดหมู่จะต้องสอดคล้องกัน  
 
 นี้คือวิธีตัวอย่างของการใส่ข้อมูลในรูปแบบของตารางโดยใช้ Markdown  
-
-| Column 1                 | Column 2 |
-|:-------------------------|----------|
-| Gasohol 91               | 36.28    |
-| Gasohol E20              | 35       |
-| Gasohol E85              | 32       |
+## Lunch
+Item                      | Price
+------------------------ | ------
+Grilled Chicken Sandwich | 11.00 THB
+Vegetable Wrap           | 10.00 THB
+BLT Salad                | 12.50 THB
+Turkey Club Sandwich     | 11.50 THB
 
 ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
 

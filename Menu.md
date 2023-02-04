@@ -8,7 +8,6 @@
     (use proper Markdown formatting, not literal text like this)
 
 ## Lunch
-
 Item                      | Price
 ------------------------ | ------
 Grilled Chicken Sandwich | 11.00 THB
