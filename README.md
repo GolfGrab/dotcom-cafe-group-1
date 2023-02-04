@@ -1,7 +1,7 @@
 # DotCom Cafe
 
-[Night Food](#night-food)  
 [Dinner](#dinner)
+[Night Food](#night-food)  
 **TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**  
 **TODO**: และอย่าลืมที่จะลบ TODO lines ทั้งหมดออกด้วย
 
