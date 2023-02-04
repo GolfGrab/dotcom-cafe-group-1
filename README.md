@@ -49,3 +49,4 @@
 | Name                    | Role       | Github    |
 | :---------------------- | ---------- | --------- |
 | Kaopong Sangkittiyakorn | Night Food | @kuisskui |
+| Vorakorn Kosiddphokin   | Dinner     | VorakornK |
