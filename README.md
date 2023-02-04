@@ -1,6 +1,6 @@
 # DotCom Cafe Group 1
 
-[Breakfast](Menu.md#Breakfast) | [Lunch](Menu.md#lunch) | [Dinner](Menu.md#dinner) |[Snack](Menu.md#snacks) | [Night Food](Menu.md#night-food) | [Beverages](Menu.md#Beverages)
+[Breakfast](Menu.md#Breakfast) | [Lunch](Menu.md#lunch) | [Dinner](Menu.md#dinner) |[Snack](Menu.md#snacks) | [Night Food](Menu.md#night-food) | [Beverages](Menu.md#Beverages) | [Desserts](Menu.md#Desserts)
 
 ## Drive-Thru
 
@@ -59,6 +59,16 @@
 |Soda                      | 2.50 THB |
 |Juice                     | 3.50 THB |   
 
+## Desserts
+
+|Item            | Price    |
+|:-------------- | ---------|
+|Chocolate Cake  | 70.00 THB|
+|Strawberry Cake | 70.00 THB|
+|Ice cream       | 40.00 THB|
+|Eclairs         | 50.00 THB|
+|Cupcakes        | 50.00 THB|
+
 ## About Us
 
 | Name      | Role      | Github                   |
@@ -69,3 +79,4 @@
 | Nathapon  | Snacks    | Paxwell_Paxwell          |
 | Jiratchaya| Beverages | mjrchy                   |
 | Vorakorn  | Dinner    | VorakornK                |
+|Sittipol   |Desserts   |Linwoo1012                |
