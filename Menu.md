@@ -31,6 +31,13 @@ Turkey Club Sandwich     | 11.50 THB
 ## Night Food
 
 ## Beverages
+| Item                     | Price    |
+|------------------------  | ---------|
+|Coffee                    | 3.00 THB |
+|Tea                       | 3.00 THB |
+|Soda                      | 2.50 THB |
+|Juice                     | 3.50 THB |    
+
 ## Snacks
 |Item                      | Price|
 |------------------------ | ------|
