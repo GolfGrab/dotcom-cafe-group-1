@@ -28,7 +28,7 @@
 | Fried chicken | 199.00 THB |
 
 ## Beverages
-## snacks
+## Snacks
 |Item                      | Price|
 |------------------------ | ------|
 |French Fries             | 5.00 THB|
