@@ -10,13 +10,13 @@
 
 ## Dinner
 
-| Item                   | Price |
-| ---------------------- | ----- |
-| Pad Thai               | 60    |
-| Tom Yum Soup           | 120   |
-| Green Curry            | 110   |
-| Massaman Curry         | 120   |
-| Papaya Salad (Som tum) | 70    |
+| Item                   | Price      |
+| :--------------------- | ---------- |
+| Pad Thai               | 60.00 THB  |
+| Tom Yum Soup           | 120.00 THB |
+| Green Curry            | 110.00 THB |
+| Massaman Curry         | 120.00 THB |
+| Papaya Salad (Som tum) | 70.00 THB  |
 
 ## Night Food
 
